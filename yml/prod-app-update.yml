@@ -1,0 +1,3 @@
+provider: generic
+url: 'https://archive-artifacts.oss-cn-beijing.aliyuncs.com/desktop/an-plus-coffee-desktop/production/'
+updaterCacheDirName: electron-coffee-updater
